@@ -15,7 +15,7 @@
 
 - 👯 公众号：『[程序员库森](https://mp.weixin.qq.com/s?__biz=MzkyMTI3Mjc2MQ==&amp;mid=2247489109&amp;idx=1&amp;sn=d809318dbd782e4105aafa4726164575&amp;chksm=c1877e83f6f0f79558ef5400d8a9b14b173bdad770fd74f9e3819f6dc94d10060a27c83d12b1&token=346648928&lang=zh_CN#rd)』
 
-- 💬 个人微信：『[coolsen666](http://blog-img.coolsen.cn/img/image-%E5%BA%93%E6%A3%AE%E5%BE%AE%E4%BF%A1.png)』,长期内推阿里所有岗位.欢迎来撩😄拉你进大佬交流群~~吹水~~学习
+- 💬 个人微信：『[kusengo](http://blog-img.coolsen.cn/img/image-20230427195311976.png)』,长期内推阿里所有岗位.欢迎来撩😄拉你进大佬交流群~~吹水~~学习
 
 
   
